@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822938083882",
+    "project_id": "upload-ds3m-leticia",
+    "storage_bucket": "upload-ds3m-leticia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822938083882:android:86adee79c913dbbf2fd953",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.upload_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4RmdhPNEm3e8cRbquSbvQ0qc5OC5wR6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
